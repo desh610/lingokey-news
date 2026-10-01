@@ -2,6 +2,14 @@
     "version": 1,
     "news": [
         {
+            "id": "2026-10-01-102257",
+            "title": "new today",
+            "description": "ok",
+            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-10-01-102257.webp",
+            "publishedAt": 1790830382939,
+            "vocabulary": []
+        },
+        {
             "id": "2026-10-01-101054",
             "title": "khd",
             "description": "jx",
