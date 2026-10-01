@@ -1,61 +1,6 @@
 {
     "version": 1,
     "news": [
-        {
-            "id": "2026-10-01-102544",
-            "title": "ම්ංජ්ජ්",
-            "description": "ම්ම්න්න්න්ං",
-            "imageUrl": null,
-            "publishedAt": 1790830545691,
-            "vocabulary": []
-        },
-        {
-            "id": "2026-10-01-102326",
-            "title": "now good",
-            "description": "great",
-            "imageUrl": null,
-            "publishedAt": 1790830407416,
-            "vocabulary": []
-        },
-        {
-            "id": "2026-10-01-102257",
-            "title": "new today",
-            "description": "ok",
-            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-10-01-102257.webp",
-            "publishedAt": 1790830382939,
-            "vocabulary": []
-        },
-        {
-            "id": "2026-10-01-101054",
-            "title": "khd",
-            "description": "jx",
-            "imageUrl": null,
-            "publishedAt": 1790829655422,
-            "vocabulary": []
-        },
-        {
-            "id": "2026-10-01-100214",
-            "title": "gnnc",
-            "description": "mmnn",
-            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-10-01-100214.webp",
-            "publishedAt": 1790829138161,
-            "vocabulary": []
-        },
-        {
-            "id": "2026-10-01-100011",
-            "title": "test",
-            "description": "test3",
-            "imageUrl": null,
-            "publishedAt": 1790829012101,
-            "vocabulary": []
-        },
-        {
-            "id": "2026-10-01-095433",
-            "title": "Activists inspect Miracle Dome City Site amid environmental concerns",
-            "description": "Colombo, Sep. 30 (Daily Mirror) - A group of civil society activists visited the proposed Miracle Dome City project site in Katunayake following reports and social media claims raising concerns about the project’s potential environmental impact.\n\nDuring the site visit, the activists inspected the premises and reviewed measures related to environmental protection, land preservation and the development plans for the property.\n\nSpeaking to reporters after the visit, civil society representative Sanjaya Mahawatta said the conditions observed at the site did not correspond with claims circulating on social media.",
-            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-10-01-095433.webp",
-            "publishedAt": 1790828676225,
-            "vocabulary": []
-        }
+       
     ]
 }
