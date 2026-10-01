@@ -2,6 +2,14 @@
     "version": 1,
     "news": [
         {
+            "id": "2026-10-01-112640",
+            "title": "888",
+            "description": "jdjj",
+            "imageUrl": null,
+            "publishedAt": 1790834201504,
+            "vocabulary": []
+        },
+        {
             "id": "2026-10-01-112531",
             "title": "777",
             "description": "test",
