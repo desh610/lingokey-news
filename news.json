@@ -2,6 +2,15 @@
     "version": 1,
     "news": [
         {
+            "id": "2026-10-01-145856",
+            "title": "test",
+            "description": "two",
+            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-10-01-145856.webp",
+            "publishedAt": 1790846941956,
+            "vocabulary": [],
+            "category": "General"
+        },
+        {
             "id": "2026-10-01-115317",
             "title": "New Job Opportunities Expected in Sri Lanka",
             "description": "Several companies in Sri Lanka are planning to create new job opportunities in the coming months. The new positions may be available in areas such as technology, customer service, finance, and tourism. Experts say that people with good communication and digital skills may have more opportunities to find suitable jobs.",
@@ -32,7 +41,8 @@
                     "example": "Good communication skills are important in the workplace.",
                     "sinhala": null
                 }
-            ]
+            ],
+            "category": "General"
         },
         {
             "id": "2026-10-01-114511",
@@ -53,7 +63,8 @@
                     "example": "The new train connects the city with nearby towns.",
                     "sinhala": null
                 }
-            ]
+            ],
+            "category": "General"
         }
     ]
 }
