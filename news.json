@@ -2,6 +2,14 @@
     "version": 1,
     "news": [
         {
+            "id": "2026-10-01-112531",
+            "title": "777",
+            "description": "test",
+            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-10-01-112531.webp",
+            "publishedAt": 1790834134129,
+            "vocabulary": []
+        },
+        {
             "id": "2026-10-01-112410",
             "title": "6",
             "description": "ggg",
