@@ -2,6 +2,14 @@
     "version": 1,
     "news": [
         {
+            "id": "2026-10-01-102326",
+            "title": "now good",
+            "description": "great",
+            "imageUrl": null,
+            "publishedAt": 1790830407416,
+            "vocabulary": []
+        },
+        {
             "id": "2026-10-01-102257",
             "title": "new today",
             "description": "ok",
