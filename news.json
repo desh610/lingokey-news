@@ -2,6 +2,14 @@
     "version": 1,
     "news": [
         {
+            "id": "2026-10-01-111743",
+            "title": "test4",
+            "description": "test",
+            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-10-01-111743.webp",
+            "publishedAt": 1790833665433,
+            "vocabulary": []
+        },
+        {
             "id": "2026-10-01-111247",
             "title": "test 3",
             "description": "test3",
