@@ -2,6 +2,14 @@
     "version": 1,
     "news": [
         {
+            "id": "2026-10-01-113422",
+            "title": "LingoKey",
+            "description": "ඔබ copy කරන සෑම වාක්‍යයක්ම clip එකක් ලෙසින් මෙහි දිස්වෙයි. එම clips එබීමෙන් වාක්‍යයම එකවර ලිවිය හැක.",
+            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-10-01-113422.webp",
+            "publishedAt": 1790834664709,
+            "vocabulary": []
+        },
+        {
             "id": "2026-10-01-113258",
             "title": "10",
             "description": "gzz",
