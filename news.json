@@ -1,47 +1,55 @@
 {
-  "version": 1,
-  "news": [
-    {
-      "id": "2026-09-30-01",
-      "title": "Sri Lanka Opens a New Technology Park in Colombo",
-      "description": "A new technology park opened in Colombo today. It gives office space to small software companies. The government hopes it will create many new jobs for young people.",
-      "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-09-30-01.jpg",
-      "publishedAt": 1759190400000,
-      "vocabulary": [
+    "version": 1,
+    "news": [
         {
-          "word": "technology",
-          "meaning": "machines and tools made from science, like computers and phones",
-          "example": "New technology makes our work faster.",
-          "sinhala": "තාක්ෂණය"
+            "id": "2026-10-01-090158",
+            "title": "test 1",
+            "description": "test 2",
+            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-10-01-090158.png",
+            "publishedAt": 1790825526973,
+            "vocabulary": []
         },
         {
-          "word": "create",
-          "meaning": "to make something new",
-          "example": "The new park will create jobs.",
-          "sinhala": "නිර්මාණය කරනවා"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-29-01",
-      "title": "Heavy Rain Expected in the Hill Country This Week",
-      "description": "The weather office says there will be heavy rain in the hill country this week. People who live near rivers should be careful. Drivers should also go slowly on wet roads.",
-      "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-09-29-01.jpg",
-      "publishedAt": 1759104000000,
-      "vocabulary": [
-        {
-          "word": "expected",
-          "meaning": "something people think will happen",
-          "example": "Rain is expected tomorrow.",
-          "sinhala": "අපේක්ෂිත"
+            "id": "2026-09-30-01",
+            "title": "Sri Lanka Opens a New Technology Park in Colombo",
+            "description": "A new technology park opened in Colombo today. It gives office space to small software companies. The government hopes it will create many new jobs for young people.",
+            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-09-30-01.jpg",
+            "publishedAt": 1759190400000,
+            "vocabulary": [
+                {
+                    "word": "technology",
+                    "meaning": "machines and tools made from science, like computers and phones",
+                    "example": "New technology makes our work faster.",
+                    "sinhala": "තාක්ෂණය"
+                },
+                {
+                    "word": "create",
+                    "meaning": "to make something new",
+                    "example": "The new park will create jobs.",
+                    "sinhala": "නිර්මාණය කරනවා"
+                }
+            ]
         },
         {
-          "word": "careful",
-          "meaning": "doing something with attention so you stay safe",
-          "example": "Be careful on the wet road.",
-          "sinhala": "ප්‍රවේශම්"
+            "id": "2026-09-29-01",
+            "title": "Heavy Rain Expected in the Hill Country This Week",
+            "description": "The weather office says there will be heavy rain in the hill country this week. People who live near rivers should be careful. Drivers should also go slowly on wet roads.",
+            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-09-29-01.jpg",
+            "publishedAt": 1759104000000,
+            "vocabulary": [
+                {
+                    "word": "expected",
+                    "meaning": "something people think will happen",
+                    "example": "Rain is expected tomorrow.",
+                    "sinhala": "අපේක්ෂිත"
+                },
+                {
+                    "word": "careful",
+                    "meaning": "doing something with attention so you stay safe",
+                    "example": "Be careful on the wet road.",
+                    "sinhala": "ප්‍රවේශම්"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
