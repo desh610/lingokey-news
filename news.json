@@ -2,6 +2,14 @@
     "version": 1,
     "news": [
         {
+            "id": "2026-10-01-100011",
+            "title": "test",
+            "description": "test3",
+            "imageUrl": null,
+            "publishedAt": 1790829012101,
+            "vocabulary": []
+        },
+        {
             "id": "2026-10-01-095433",
             "title": "Activists inspect Miracle Dome City Site amid environmental concerns",
             "description": "Colombo, Sep. 30 (Daily Mirror) - A group of civil society activists visited the proposed Miracle Dome City project site in Katunayake following reports and social media claims raising concerns about the project’s potential environmental impact.\n\nDuring the site visit, the activists inspected the premises and reviewed measures related to environmental protection, land preservation and the development plans for the property.\n\nSpeaking to reporters after the visit, civil society representative Sanjaya Mahawatta said the conditions observed at the site did not correspond with claims circulating on social media.",
