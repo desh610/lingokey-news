@@ -1,6 +1,26 @@
 {
     "version": 1,
     "news": [
-       
+        {
+            "id": "2026-10-01-114511",
+            "title": "Sri Lanka Opens a New Train Service",
+            "description": "Sri Lanka has started a new train service to help people travel more easily. The new service connects several busy areas and is expected to help students and workers save time.",
+            "imageUrl": "https://raw.githubusercontent.com/desh610/lingokey-news/main/images/2026-10-01-114511.webp",
+            "publishedAt": 1790835313410,
+            "vocabulary": [
+                {
+                    "word": "Service",
+                    "meaning": "A system that provides something people need.",
+                    "example": "The new train service helps people travel to work.",
+                    "sinhala": null
+                },
+                {
+                    "word": "Connect",
+                    "meaning": "To join two places or things together.",
+                    "example": "The new train connects the city with nearby towns.",
+                    "sinhala": null
+                }
+            ]
+        }
     ]
 }
